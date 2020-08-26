@@ -13,5 +13,5 @@ while end not in positivo:
     dbteste[msg] = data
     end = input('Deseja finalizar o programa? ')
 else:
-    print(dbteste)  #todo: include multiple inputs in lib
+    print(dbteste)
     exit()
